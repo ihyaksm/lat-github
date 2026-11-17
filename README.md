@@ -3,7 +3,8 @@
 ## Tujuan Praktikum
 1. Mengenal repository GitHub.
 2. Memahami Fork dan Clone.
-3. Menggunakan Visual Studio Code untuk mengedit berkas.
+3. Menggunakan Visual Studio Cols
+de untuk mengedit berkas.
 4. Memahami Commit dan Push.
 5. Mengirim hasil pekerjaan melalui Pull Request.
 
